@@ -1,0 +1,23 @@
+.wrapper {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color: transparent;
+
+}
+
+.conatiner {
+    position: fixed;
+    width: 20rem;
+    top: 12%;
+    left: 77.2%;
+    right: 0;
+    background-color: #1d2044;
+    padding: 2rem 3rem;
+    border-radius: 0.5rem;
+    height: 20rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}

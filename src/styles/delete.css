@@ -1,0 +1,20 @@
+
+.modal-wrapperr {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color:transparent;
+}
+
+.modal-containerr {
+    position: fixed;
+    width:  50rem;
+    top: 40%;
+    left: 30%;
+    right: 23%;
+    background-color:rgb(235, 222, 222);
+    padding: 2rem 3rem;
+    border-radius: 0.5rem;
+}
